@@ -17,6 +17,3 @@ The dataset of haze images is not publicly available at this time. The images ar
 2. Numpy
 3. TensorFlow
 4. Keras
-
-### References
-[1] 
